@@ -1,0 +1,1 @@
+# LND-email-signature-assets
